@@ -11,4 +11,6 @@ Copy + Paste into RStudio or similar
  - Confidence intervals for Sample Proportion (with + without SE)
  - Confidence intervals for Sample Means (with + without SE, known/unknown population SD)
  - Confidence intervals for Independent Groups 
+ - Margin of Error (from Confidence Level)
+ - Minimum Sample size given margin of error
  - Regression Line Model Slope + Intercepts
